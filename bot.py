@@ -12,7 +12,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Your Telegram Bot Token
-BOT_TOKEN = '8056347442:AAGDg5spzxlxXIBoaCLP9io2KblUnbcfaaQ'
+
 
 # Dictionary of download links hosted on your website
 papers = {
